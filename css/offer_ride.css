@@ -1,0 +1,203 @@
+body{
+	color:black;
+	font-family: Arial, sans-serif;
+	background-image: url('../images/offer_background.jpg');
+	background-size: cover;
+}
+
+.topbar{
+	display: flex;
+	align-items: center;
+}
+
+.backbox{
+	height: 40px;
+	margin-top: 20px;
+	display: flex;
+	align-items: center;
+	margin-left: 10%;
+}
+
+.backbox a{
+	display: flex;
+	align-items: center;
+	font-size: 30px;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+}
+
+.backbox a img{
+	width:40px;
+	height: auto;
+	padding-right: 5px;
+}
+
+.backbox p{
+	color: #FF5C00;
+	font-size: 20px;
+	padding-top: 5px;
+}
+
+.backbox a:hover {
+  color: #FF5C00;
+}
+
+.logo{
+	display: flex;
+	align-items: center;
+	margin-left: auto;
+	margin-right: 10px;
+}
+
+.logo img{
+	width: auto;
+	height: 150px;
+}
+
+.logo slogan{
+	display: flex;
+	flex-direction: column;
+}
+
+.logo span{
+	font-size: 50px;
+	font-weight: bold;
+	font-family: Tahoma, sans-serif;
+	padding-bottom: 0;
+}
+
+.logo p{
+	padding-top: 0;
+	margin-top: 0;
+	font-family: Tahoma, sans-serif;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.wrapper{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-left: 10px;
+	margin-right: auto;
+	width: 50%;
+}
+
+.container{
+	width: 500px;
+	border: 1px solid #ccc;
+	margin-left: 10%;
+	border-radius: 5px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	background-color: #f9f9f9;
+}
+
+table td{
+	width: 500px;
+	padding-left: 30px;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+table{
+	border-collapse: collapse;
+	border-bottom: 1px solid #ccc;
+}
+
+.profilepic{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	padding-left: 0px;
+}
+
+.profilepic img{
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	margin-left: 10px;
+	border: 1px solid #ccc;
+}
+
+.rideloctime{
+	margin-top: 10px;
+}
+
+.rideloctime td{
+	height: 26px;
+}
+
+.rideloctime input{
+	height: 26px;
+	font-family: Arial, sans-serif;
+	border: 1px solid #ccc;
+	background-color: #fff;
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+select{
+	padding: 5px 0 5px 0;
+	border: 1px solid #ccc; 
+	background-color: #fff;
+	border-radius: 5px;
+}
+
+.fromtopic{
+	width: 25px;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.fromtopic img{
+	width: 25px;
+	height: auto;
+}
+
+.ridedetails{
+	margin-top: 10px;
+	border-bottom: 0;
+}
+
+.piccol{
+	width:25px;
+	padding-left: 15px;
+}
+
+.ridedetails img{
+	width:25px;
+	height:25px;
+}
+
+.ridedetails input{
+	height: 26px;
+	width: 50px;
+	font-family: Arial, sans-serif;
+	border: 1px solid #ccc;
+	background-color: #fff; 
+	font-size: 20px;
+	border-radius: 5px;
+}
+
+.confirm{
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	width: 250px;
+	margin-left: calc(10% + 125px);
+	border: 0;
+	border-radius: 5px;
+	background-color: #FF5C00;
+	color: white;
+	height:50px;
+	padding-top: 5px;
+	cursor: pointer;
+}
+
+.confirm:hover {
+	background-color: #FF7F33;
+}

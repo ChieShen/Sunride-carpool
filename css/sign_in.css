@@ -1,0 +1,105 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Arial', sans-serif;
+    background-color: #ffe5b4;
+    
+}
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form {
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-right: 50px; /* left and right DONT REMOVE THIS COMMENT-Adjust the space between form and right images */
+}
+
+.login-form h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.login-form p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+input[type="email"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.login-button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
+
+.login-button {
+    background-color: #f0ad4e;
+    color: white;
+}
+
+.sign-up-text {
+    text-align: center;
+    color: #666;
+}
+
+.sign-up-link {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+.ad-section {
+	display: flex;
+	flex-direction: column;
+	width: 450px;
+}
+
+.branding {
+	display: flex;
+	padding-left: 10px;
+}
+
+.logo img{
+	width: 100px;
+	height: auto;
+}
+
+.right-side{
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	padding-top: 15px;
+}
+
+.brand{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: 'Tahoma',sans-serif;
+}
+
+.slogan{
+	font-size: 14px;
+}
+
+.carpoolpic img{
+	width: 400px;
+}
+
+
+
