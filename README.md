@@ -11,14 +11,18 @@ Sign Up:
 ![image](https://github.com/user-attachments/assets/db6ae336-4912-4841-b43c-129c29022c52)
 
 Book Ride:
+
 ![image](https://github.com/user-attachments/assets/27f2974d-2d3f-4a50-93c4-d8491b5f32c0)
 
 Offer Ride:
+
 ![image](https://github.com/user-attachments/assets/2a457df5-0a34-41c8-8e2a-c74374a05a3e)
 
 Profile:
+
 ![image](https://github.com/user-attachments/assets/bb14a657-0a26-48e5-8d06-0f3c0555a026)
 
 Rewards:
+
 ![image](https://github.com/user-attachments/assets/5eb82321-58d1-4893-ae69-fc908622cbef)
 
